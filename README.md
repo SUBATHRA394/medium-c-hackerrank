@@ -1,1 +1,1 @@
-# easy-c-hackerrank
+# hackerrank-c
